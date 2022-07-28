@@ -6,7 +6,7 @@
 ![This is an image](./project.jpg)
 
 ### As a result of this project, I learn the following:
-[LIVE-LINK](https://projectcryptolanding.netlify.app/)
+[LIVE-LINK](https://projectplanthomepage.netlify.app/)
 
 - [x] learned about how to use Font Awesome/icon
 - [x] making perfect layout
